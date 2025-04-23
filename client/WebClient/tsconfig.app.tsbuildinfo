@@ -1,0 +1,18 @@
+{
+    "root": [
+        "./src/app.tsx",
+        "./src/main.tsx",
+        "./src/vite-env.d.ts",
+        "./src/providers/productsprovider.tsx",
+        "./src/api/httpclient.ts",
+        "./src/api/v1/products.ts",
+        "./src/components/floatingaddbutton/index.tsx",
+        "./src/components/newordermodal/index.tsx",
+        "./src/components/newordermodal/ProductOrdertable/index.tsx",
+        "./src/components/newordermodal/quantitydialog/index.tsx",
+        "./src/components/orderstable/index.tsx",
+        "./src/utils/newuuid.ts",
+        "./src/utils/types.ts"
+    ],
+    "version": "5.7.3"
+}

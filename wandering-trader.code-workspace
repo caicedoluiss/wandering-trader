@@ -1,0 +1,23 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "server/WanderingTrader.Core"
+        },
+        {
+            "path": "server/WanderingTrader.Application"
+        },
+        {
+            "path": "server/WanderingTrader.Infrastructure"
+        },
+        {
+            "path": "server/WanderingTrader.WebAPI"
+        },
+        {
+            "path": "./client/WebClient"
+        }
+    ],
+    "settings": {}
+}
